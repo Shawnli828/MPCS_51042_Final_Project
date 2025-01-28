@@ -1,3 +1,5 @@
+![pexels-lalesh-194511](https://github.com/user-attachments/assets/d21883e7-15ba-4d88-abd1-421c9b3a60b6)
+
 # MPCS_51042_Final_Project
 
 ## **Author**
@@ -6,8 +8,6 @@
 - **Email:** zizhanl@uchicago.edu
 
 ## **Video Game Sales Analysis**
-
-![pexels-lalesh-194511](https://github.com/user-attachments/assets/d21883e7-15ba-4d88-abd1-421c9b3a60b6)
 
 **Main Goal:**  
 Analyze video game sales to explore changes in market trends.
