@@ -1,15 +1,22 @@
 # MPCS_51042_Final_Project
 
-# __Autor__: Zizhan Li
-# __Email__: zizhanl@uchicago.edu
+## **Author**
 
-Video game sales analyze
+- **Name:** Zizhan Li
+- **Email:** zizhanl@uchicago.edu
 
-"Main goal in this project is to analyze video game sales to explore changes in market trends"
+-- 
 
-There are the key questions that will be answered
+## **Video Game Sales Analysis**
 
-1. What are the top 10 best selling games globally each year and their sales?
+**Main Goal:**  
+Analyze video game sales to explore changes in market trends.
+
+--
+
+## **Key Questions**
+
+1. What are the top 10 best-selling games globally each year and their sales?
 
 2. What genres do these high-selling games belong to? Is there a trend of genre concentration?
 
@@ -19,11 +26,11 @@ There are the key questions that will be answered
 
 5. How do the market shares of different gaming platforms change each year? Which platforms are performing well?
 
-6. What are the main factors that impact sales, for example, genre, platform, release time, and media ranking
+6. What are the main factors that impact sales, for example, genre, platform, release time, and media ranking?
 
+--
 
-
-Execution Plan
+## **Execution Plan**
 
 1. Week 4: I will try to get access to the data from video game database. The backup data will be used once I faild to access
 
