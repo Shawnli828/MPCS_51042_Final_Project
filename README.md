@@ -5,14 +5,12 @@
 - **Name:** Zizhan Li
 - **Email:** zizhanl@uchicago.edu
 
--- 
 
 ## **Video Game Sales Analysis**
 
 **Main Goal:**  
 Analyze video game sales to explore changes in market trends.
 
---
 
 ## **Key Questions**
 
@@ -28,7 +26,6 @@ Analyze video game sales to explore changes in market trends.
 
 6. What are the main factors that impact sales, for example, genre, platform, release time, and media ranking?
 
---
 
 ## **Execution Plan**
 
