@@ -14,18 +14,24 @@ Analyze video game sales to explore changes in market trends.
 
 
 ## **Key Questions**
+Macro:
+1. How did global game sales changed over the years?
+2. Which publishers are the most competitive globally over time, and what are their market shares?
+3. What is the market share distribution among different game genres globally, and which genre is the most popular?
+4. What is the market share for each gaming platform globally, and which platform is the most popular?
 
+Micro:
 1. What are the top 10 best-selling games globally each year and their sales?
-
 2. What genres do these high-selling games belong to? Is there a trend of genre concentration?
-
 3. Answer the above two questions based on regional sales.
-
 4. How do the market shares of different game genres change each year? Which genres are growing or declining over time?
-
 5. How do the market shares of different gaming platforms change each year? Which platforms are performing well?
+   
+Correlation Analysis:
+1. Are user ratings and critic ratings correlated with global game sales?
 
-6. What are the main factors that impact sales, for example, genre, platform, release time, and media ranking?
+Predictive Model Building:
+1. Can game sales be predicted based on genre, platform, ratings, and other features?
 
 
 ## **Execution Plan**
