@@ -14,13 +14,13 @@ Analyze video game sales to explore changes in market trends.
 
 
 ## **Key Questions**
-Macro:
+Macro-level:
 1. How did global game sales changed over the years?
 2. Which publishers are the most competitive globally over time, and what are their market shares?
 3. What is the market share distribution among different game genres globally, and which genre is the most popular?
 4. What is the market share for each gaming platform globally, and which platform is the most popular?
 
-Micro:
+Micro-level:
 1. What are the top 10 best-selling games globally each year and their sales?
 2. What genres do these high-selling games belong to? Is there a trend of genre concentration?
 3. Answer the above two questions based on regional sales.
@@ -28,22 +28,22 @@ Micro:
 5. How do the market shares of different gaming platforms change each year? Which platforms are performing well?
    
 Correlation Analysis:
-1. Are user ratings and critic ratings correlated with global game sales?
+Are user ratings and critic ratings correlated with global game sales?
 
 Predictive Model Building:
-1. Can game sales be predicted based on genre, platform, ratings, and other features?
+Can game sales be predicted based on genre, platform, ratings, and other features?
 
 
 ## **Execution Plan**
 
-1. Week 4: I will try to get access to the data from video game database. The backup data will be used once I faild to access
+1. Week 4: I will try to get access to the data from video game database. The backup kaggle dataset will be used once I faild to access
 
-2. Week 5: Clean the data and organize it for analysis.
+2. Week 5: Clean the data and organize it for analysis. Establish the entire framework of anlysis.
 
-3. Week 6: Rank the top 10 best-selling games, genres and platforms each year based on global sales and regional sales. Complete the crossponding visualizations.
+3. Week 6: Finishing the analyze at Macro-Level. Complete the crossponding visualizations.
 
-4. Week 7: Calculate and visualize the annual sales growth or decline for the top genres and platforms.
+4. Week 7: Finishing the analyze at Micro-Level. Complete the crossponding visualizations
 
 5. Week 8: Select and build regression models, analyze the correlations of response variables, and summarize the analyses from the previous weeks
 
-Finally, I will compile all analysis results and visualizations into a PowerPoint presentation and complete a video recording.
+Finally, I will compile all analysis results and visualizations and complete a video recording.
