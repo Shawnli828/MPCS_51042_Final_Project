@@ -18,7 +18,6 @@ Macro-level:
 1. How did global game sales changed over the years?
 2. Which publishers are the most competitive globally over time, and what are their market shares?
 3. What is the market share distribution among different game genres globally, and which genre is the most popular?
-4. What is the market share for each gaming platform globally, and which platform is the most popular?
 
 Micro-level:
 1. What are the top 10 best-selling games globally each year and their sales?
