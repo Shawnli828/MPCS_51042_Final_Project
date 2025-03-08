@@ -13,7 +13,7 @@
 Analyze video game sales to explore changes in market trends.
 
 ## Dataset
-Please download my data from [www.googledrive.com/mydata123](https://drive.google.com/file/d/1dx7yp0fWnURS0h0UkKhMuxsmAnJIr4X8/view?usp=drive_link) and put the resulting file in my project directory
+Please download my data from [www.googledrive.com/gamesales_data](https://drive.google.com/file/d/1dx7yp0fWnURS0h0UkKhMuxsmAnJIr4X8/view?usp=drive_link) and put the resulting file in my project directory
 
 
 ## **Key Questions**
