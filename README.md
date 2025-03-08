@@ -30,7 +30,7 @@ Micro-level:
 5. How do the market shares of different gaming platforms change each year? Which platforms are performing well?
    
 Correlation Analysis:
-Are user ratings and critic ratings correlated with global game sales?
+Are user ratings, critic ratings and regional market share correlated with global game sales?
 
 Predictive Model Building:
 Can game sales be predicted based on genre, platform, ratings, and other features?
